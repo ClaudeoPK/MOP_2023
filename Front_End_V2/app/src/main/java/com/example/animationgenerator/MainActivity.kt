@@ -14,6 +14,7 @@ class MainActivity : AppCompatActivity() {
         binding = ActivityMainBinding.inflate(layoutInflater)
         setContentView(binding.root)
         binding.buttonStart.setOnClickListener {
+            startActivity(Intent(this, SelectImageActivity::class.java))
         }
     }
 }
