@@ -28,6 +28,6 @@
 ***
 
 <br>
-![preview](https://github.com/ClaudeoPK/MOP_2023/)
+![preview](https://github.com/ClaudeoPK/MOP_2023/blob/main/Documentation/mobapp1.gif)
 
 ***
